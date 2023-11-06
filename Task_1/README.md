@@ -27,3 +27,7 @@ Adjust the number of generations and other parameters in the code to achieve the
 Close the window when the program finishes executing.
 
 link to the report- https://drive.google.com/file/d/1hKgjSKU6YR0SjmZWmMY_NpfxWiWjYfhS/view?usp=drive_link
+
+# Output
+![2](https://github.com/sunalipatro/21052628_AI/assets/95564560/472a802a-91ed-4efb-8f4d-8c8cebeef901)
+![1](https://github.com/sunalipatro/21052628_AI/assets/95564560/0c9d6b6d-7158-43b9-a044-23e66e745da9)
